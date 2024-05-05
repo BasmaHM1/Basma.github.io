@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1714921687 source:c:\users\admin\desktop\gestion de stock\gestion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fonctions.h"
+
+1714922216 c:\users\admin\desktop\gestion de stock\gestion\fonctions.h
+
